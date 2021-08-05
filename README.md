@@ -1,2 +1,2 @@
-# 42BaseCamp2021
+# 42BaseCamp
 
